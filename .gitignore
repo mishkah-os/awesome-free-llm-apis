@@ -5,4 +5,5 @@
 .env.*
 !.env.verify.example
 node_modules/
+.verify/dynamic-catalog.json
 .DS_Store
